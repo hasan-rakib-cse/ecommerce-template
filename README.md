@@ -46,7 +46,7 @@ Go Online: https://rakibmart.netlify.app
 
 ### Packages used
     ----> We used some packages
-        2.  Tailwind CSS
+        1.  Tailwind CSS
             -->  Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.
 
         2.  Line Awesome
